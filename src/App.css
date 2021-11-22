@@ -124,3 +124,16 @@
     color: #fff;
   }
   
+  @media only screen and (max-width: 500px) {
+    .todo-app {
+      width: 20rem;
+    }
+
+    .todo-input {
+      width: 18rem;
+    }
+
+    .todo-button {
+      margin-top: 1rem;
+    }
+  }
