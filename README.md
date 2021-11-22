@@ -17,4 +17,4 @@
     npm run start
    ```
 
-## Netlify Link - 
+## Netlify Link - https://stoic-thompson-0ba488.netlify.app/
