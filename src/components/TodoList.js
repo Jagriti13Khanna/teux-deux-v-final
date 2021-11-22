@@ -43,7 +43,7 @@ function TodoList() {
     
     return (
         <>
-            <h2>Let the Todo Taks flow!!</h2>
+            <h2>Let the Todo Tasks flow!!</h2>
             <TodoForm onSubmit={addTodo} />
             <Todo
                 todos={todos}
